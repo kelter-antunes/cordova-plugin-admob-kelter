@@ -716,10 +716,10 @@ public class AdMob extends CordovaPlugin {
     }
 
     private String getTempInterstitial(){
-    	return "ca-app-pub-9606049518741138/2929441203";
+    	return "ca-app-pub-5814248574003790/6831222932";
     }
     private String getTempBanner(){
-    	return "ca-app-pub-9606049518741138/8975974805";
+    	return "ca-app-pub-5814248574003790/5354489735";
     }
     
     public static final String md5(final String s) {
