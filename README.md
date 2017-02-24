@@ -30,11 +30,11 @@ cordova platform add android
 
 - Add the plugin
 ```bash
-cordova plugin add cordova-plugin-admob-simple
+cordova plugin add cordova-plugin-admob-kelter
 ```
 OR
 ```bash
-cordova plugin add https://github.com/kelter-antunes/cordova-plugin-admob-simple
+cordova plugin add https://github.com/kelter-antunes/cordova-plugin-admob-kelter
 ```
 
 
@@ -181,7 +181,7 @@ function showInterstitialFunc(){
 
 * Watch the video below to see a tutorial on how to install the Cordova Admob Plugin with Android Studio:
 
-[![Video](https://github.com/kelter-antunes/cordova-plugin-admob-simple/raw/master/docs/cordova-admob-plugin-video.jpg)](https://youtu.be/esHGZxmXOMg)
+[![Video](https://github.com/kelter-antunes/cordova-plugin-admob-kelter/raw/master/docs/cordova-admob-plugin-video.jpg)](https://youtu.be/esHGZxmXOMg)
 
 ## ECLIPSE NOTES
 
