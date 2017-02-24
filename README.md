@@ -34,7 +34,7 @@ cordova plugin add cordova-plugin-admob-simple
 ```
 OR
 ```bash
-cordova plugin add https://github.com/sunnycupertino/cordova-plugin-admob-simple
+cordova plugin add https://github.com/kelter-antunes/cordova-plugin-admob-simple
 ```
 
 
@@ -181,7 +181,7 @@ function showInterstitialFunc(){
 
 * Watch the video below to see a tutorial on how to install the Cordova Admob Plugin with Android Studio:
 
-[![Video](https://github.com/sunnycupertino/cordova-plugin-admob-simple/raw/master/docs/cordova-admob-plugin-video.jpg)](https://youtu.be/esHGZxmXOMg)
+[![Video](https://github.com/kelter-antunes/cordova-plugin-admob-simple/raw/master/docs/cordova-admob-plugin-video.jpg)](https://youtu.be/esHGZxmXOMg)
 
 ## ECLIPSE NOTES
 
@@ -215,7 +215,7 @@ Credits to Liming Xie
 
 ## The MIT License (MIT)
 
-Copyright (c) 2016 Sunny Cupertino,
+Copyright (c) 2016 Kelter,
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in

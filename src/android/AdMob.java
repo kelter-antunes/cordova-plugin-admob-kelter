@@ -1,4 +1,4 @@
-package com.cupertino.cordova.plugin;
+package com.kelter.cordova.plugin;
 
 import android.content.SharedPreferences;
 import android.os.Bundle;

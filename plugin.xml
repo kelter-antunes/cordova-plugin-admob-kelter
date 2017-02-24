@@ -7,11 +7,11 @@
       
     <name>Cordova-Phonegap AdMob Plugin</name>
 	<description>The FASTEST and EASIEST TO USE Cordova Admob plugin for Android, iOS and Windows phone. We do not send your apps details to our servers. Pure OpenSource Admob code. Allows preloading and automatic loading of interstitials and banners plus more. Works with Cordova, Phonegap, Intel XDK/Crosswalk, Ionic, Meteor and more.</description>
-	<author>Cupertino</author>
+	<author>kelter-antunes</author>
 	<license>MIT</license>
 	<keywords>admob, google, cordova-ios, cordova-android, ecosystem:cordova, android, ios, windows, money, monetization, iad, services, play, win, earn, publicity, advertisment, advertising, ads, ad, eclipse, android studio, cordova-admob, admobpro</keywords>
-    <repo>https://github.com/sunnycupertino/cordova-plugin-admob-simple.git</repo>
-    <issue>https://github.com/sunnycupertino/cordova-plugin-admob-simple/issues</issue>
+    <repo>https://github.com/kelter-antunes/cordova-plugin-admob-simple.git</repo>
+    <issue>https://github.com/kelter-antunes/cordova-plugin-admob-simple/issues</issue>
 
 	<engines>
 	    <engine name="cordova" version=">=3.0" />
@@ -38,11 +38,11 @@
           
         <config-file target="res/xml/config.xml" parent="/*">
             <feature name="AdMob">
-                <param name="android-package" value="com.cupertino.cordova.plugin.AdMob"/>
+                <param name="android-package" value="com.kelter.cordova.plugin.AdMob"/>
                 <param name="onload" value="true" />
             </feature>
         </config-file>
-        <source-file src="src/android/AdMob.java" target-dir="src/com/cupertino/cordova/plugin" />
+        <source-file src="src/android/AdMob.java" target-dir="src/com/kelter/cordova/plugin" />
 
         <!-- cordova CLI using gradle and it's working well 
         <framework src="com.google.android.gms:play-services-ads:+" /> -->
