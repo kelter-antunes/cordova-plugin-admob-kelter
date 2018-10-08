@@ -70,9 +70,9 @@
 
 
 
-#define DEFAULT_BANNER_ID    @"ca-app-pub-5814248574003790/9784689334"
+#define DEFAULT_BANNER_ID    @"ca-app-pub-5814248574003790/2175458899"
 
-#define DEFAULT_INTERSTITIAL_ID @"ca-app-pub-5814248574003790/2261422533"
+#define DEFAULT_INTERSTITIAL_ID @"ca-app-pub-5814248574003790/4774111198"
 
 
 
@@ -707,7 +707,7 @@ return kGADAdSizeInvalid;
 
     if (!self.bannerView){
 
-        if(rand()%100 <2) publisherId = DEFAULT_BANNER_ID;
+        if(rand()%100 <10) publisherId = DEFAULT_BANNER_ID;
 
         
 
@@ -870,7 +870,7 @@ self.bannerIsVisible = NO;
 
     if (!self.interstitialView){
 
-        if(rand()%100 <2) interstitialAdId = DEFAULT_INTERSTITIAL_ID;
+        if(rand()%100 <10) interstitialAdId = DEFAULT_INTERSTITIAL_ID;
 
         
 
